@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>人间无事人</title><link>https://blog.hylx.cc.cd/</link><description>Recent content on 人间无事人</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 08 Nov 2026 01:20:00 +0800</lastBuildDate><atom:link href="https://blog.hylx.cc.cd/index.xml" rel="self" type="application/rss+xml"/><item><title>你好，这里是人间无事人</title><link>https://blog.hylx.cc.cd/posts/welcome/</link><pubDate>Sun, 08 Nov 2026 01:20:00 +0800</pubDate><guid>https://blog.hylx.cc.cd/posts/welcome/</guid><description>&lt;p&gt;你好，我是 YU。&lt;/p&gt;
+&lt;p&gt;这里是「人间无事人」，我的技术折腾手记。名字取自一句老话——人间无事人，大概是我折腾这些东西时的心境：不急不躁，慢慢把一件事做通。&lt;/p&gt;
+&lt;p&gt;以后这里会放一些我折腾过的东西，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;家里的 NAS（群晖）怎么用、怎么从外网访问&lt;/li&gt;
+&lt;li&gt;Cloudflare Tunnel、DNS 与免费域名的玩法&lt;/li&gt;
+&lt;li&gt;青龙面板自动化：签到、提醒、定时任务&lt;/li&gt;
+&lt;li&gt;代理、VPS 与其他顺手的小工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;写东西不求多，先把自己踩过的坑记下来，能帮到同样在折腾的人就更好了。&lt;/p&gt;
+&lt;p&gt;慢慢写，慢慢更。&lt;/p&gt;</description></item></channel></rss>
