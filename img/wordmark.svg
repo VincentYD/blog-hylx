@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="280" height="60" viewBox="0 0 280 60" role="img" aria-label="人间无事人">
   <title>人间无事人</title>
-  <!-- 文字标：粗黑 900 字重，对标 LANGREN 的定制字母感；字距拉开，干净醒目。
-       右上角红点呼应头像剑客的红绶带（克制的一点红）。 -->
+  <!-- 文字标：粗黑 900 字重，对标 LANGREN 的定制字母感；字距拉开，干净醒目。 -->
   <text x="2" y="45" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="42" font-weight="900" letter-spacing="4" fill="#16181d" textLength="236" lengthAdjust="spacingAndGlyphs">人间无事人</text>
-  <circle cx="258" cy="13" r="6.5" fill="#e5484d"/>
 </svg>
